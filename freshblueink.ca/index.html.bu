@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Fresh Blue Ink</title>
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1" />
+<meta property="fb:admins" content="100004381411262" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+	<div id="wrapper">
+		<div id="top">
+		</div>
+		<div id="content">
+			<div id="header">
+			FRESH BLUE INK
+			</div>
+			<div id="menu">
+				<ul>
+					<li><a href="http://www.freshblueink.ca/index.html">Home</a></li>
+					<li><a href="http://www.freshblueink.ca/wordpress">Blog</a></li>
+					<li><a href="http://www.freshblueink.ca/b1977.html">Breakaway: 1977</a></li>
+					<li><a href="http://www.freshblueink.ca/authors.html">Authors</a></li>
+					<li><a href="http://www.freshblueink.ca/subm.html">Submissions</a></li>
+					<li><a href="http://www.freshblueink.ca/contact.html">Contact Us</a></li>
+					<li><a href="http://www.freshblueink.ca/links.html">Links</a></li>
+				</ul>
+			</div>
+			<div id="stuff">
+			<b>Welcome to Fresh Blue Ink.</b> 
+			<br /><br />
+			Our goal is to publish quality Canadian fiction in electronic and traditional formats. 
+			<br /><br />
+			Areas of editorial interest include science fiction, speculative fiction, psychological fiction, and <a href="http://www.wikipedia.org/wiki/Bildungsroman">bildungsroman</a>.
+			<br /><br />
+			Our first project, the novel <b>Breakaway: 1977</b>, was released Fall 2013.
+			<br /><br />
+			A short story anthology, <A HREF="http://www.freshblueink.ca/subm.html">Space Lizards Of Canada</A>, is open to submissions.
+			<br /><br />
+			<br /><br />
+			<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.freshblueink.ca&amp;send=false&amp;layout=standard&amp;width=225&amp;show_faces=true&amp;font=arial&amp;colorscheme=light&amp;action=like&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:225px; height:80px;" allowTransparency="true"></iframe>
+			<br /><br />
+			All site material: Copyright (C) 2014 Fresh Blue Inc. All rights reserved.
+			</div>
+		</div>
+		<div id="bottom">
+		</div>
+	</div>
+</body>
+</html>
